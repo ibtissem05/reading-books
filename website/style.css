@@ -1,0 +1,16 @@
+h1{
+    padding: 8px;
+    background-color: rgb(177, 129, 33);
+    border-radius: 8px;
+    margin: 0;
+    font-size: 64px;
+    font-family: 'Roboto slab', serif;
+    
+}
+#banner h3 {
+    background-color: antiquewhite;
+    border-radius: 8px;
+    padding: 0 24px;
+    font-size: 24px;
+
+}
